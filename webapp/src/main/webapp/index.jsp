@@ -34,6 +34,7 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Forgot Password> <a href="#"> Forgot </a> </p>
   </div> 
 
   <h1> Thank you ,Happy Learning </h1>
