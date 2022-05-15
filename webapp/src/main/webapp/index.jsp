@@ -5,15 +5,24 @@
     <hr>
 
 
-     <label for="Name"><b>Name saritha wedn</b></label>
+     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <br>
 
-    <label for="email"><b>Email enter thrusday email</b></label>
+    <label for="email"><b>Email enter email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br> 
+
+    <label for="MobileNum"><b>enter Mobile Number</b></label>
+    <input type="text" placeholder="Enter MobileNum" name="MobileNum" id="MobileNum" required>
+
+    <br>
+
 
     <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
