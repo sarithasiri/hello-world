@@ -5,7 +5,7 @@
     <hr>
 
 
-     <label for="Name"><b>Enter Name</b></label>
+     <label for="Name"><b>Enter Full sari Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
